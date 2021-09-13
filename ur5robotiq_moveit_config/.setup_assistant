@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ur5robotiq_description
+    relative_path: urdf/ur5robotiq_robot.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur5robotiq.srdf
+  CONFIG:
+    author_name: Victor Wilvert Antunes
+    author_email: victorwilvertantunes@gmail.com
+    generated_timestamp: 1631522344
