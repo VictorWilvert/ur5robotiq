@@ -8,6 +8,8 @@ https://github.com/ros-industrial/robotiq
 
 https://github.com/ros-industrial/universal_robot
 
+[![Watch the video](https://img.youtube.com/vi/4kfCZeN_HHw/default.jpg)](https://youtu.be/4kfCZeN_HHw)
+
 ## Building
 
 The packages is available for ROS Melodic and you have to build the packages from source.
