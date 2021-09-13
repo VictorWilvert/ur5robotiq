@@ -8,7 +8,7 @@ https://github.com/ros-industrial/robotiq
 
 https://github.com/ros-industrial/universal_robot
 
-[![Watch the video](https://img.youtube.com/vi/4kfCZeN_HHw/default.jpg)](https://youtu.be/4kfCZeN_HHw)
+[![ur5robotiq demonstration](https://img.youtube.com/vi/4kfCZeN_HHw/hqdefault.jpg)](https://youtu.be/4kfCZeN_HHw)
 
 ## Building
 
